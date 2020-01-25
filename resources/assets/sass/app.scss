@@ -1,0 +1,26 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+// @font-face {
+//   font-family: Montserrat;
+//   src: url({{ asset('fonts/Montserrat-Regular.ttf') }});
+// }
+// @font-face {
+//   font-family: Montserrat-Medium;
+//   src: url({{ asset('fonts/Montserrat-Medium.ttf') }});
+// }
+// @font-face {
+//   font-family: Montserrat-Bold;
+//   src: url({{ asset('fonts/Montserrat-Bold.ttf') }});
+// }
+// @font-face {
+//   font-family: Montserrat-SBold;
+//   src: url({{ asset('fonts/Montserrat-SBold.ttf') }});
+// }
+.navbar-laravel {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
